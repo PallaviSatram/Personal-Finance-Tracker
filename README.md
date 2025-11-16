@@ -4,17 +4,17 @@ A responsive web-based Expense Tracker built with HTML, CSS, Bootstrap, and Java
 # Features #
 
 -Real-Time Balance Tracking.
-Automatically calculates total income, total expenses, and remaining balance.
+-Automatically calculates total income, total expenses, and remaining balance.
 -Transaction Management.
-Add income/expense entries with amount, type, and date.
+-Add income/expense entries with amount, type, and date.
 -Data Persistence.
-All transactions and card values (income, expense, balance) are stored using localStorage to retain data across browser sessions.
+-All transactions and card values (income, expense, balance) are stored using localStorage to retain data across browser sessions.
 -Delete & Reset Options.
-Users can delete individual transactions or reset the entire tracker in one click.
+-Users can delete individual transactions or reset the entire tracker in one click.
 -Responsive UI.
-Built with Bootstrap and custom CSS to ensure proper layout on desktops, tablets, and mobile devices.
+-Built with Bootstrap and custom CSS to ensure proper layout on desktops, tablets, and mobile devices.
 -Multi-Page Layout.
-Includes a clean Home Page and a dedicated Tracker Page for better navigation.
+-Includes a clean Home Page and a dedicated Tracker Page for better navigation.
 
 # Tech Stack
 
