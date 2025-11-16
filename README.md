@@ -33,12 +33,12 @@ Includes a clean Home Page and a dedicated Tracker Page for better navigation.
 
 # Future Enhancements
 
--Add categories (Food, Travel, Bills, etc.)
--Add charts using Chart.js
--Add authentication (Firebase or custom backend)
--Export transactions to CSV or Excel
+- Add categories (Food, Travel, Bills, etc.)
+- Add charts using Chart.js
+- Add authentication (Firebase or custom backend)
+- Export transactions to CSV or Excel
 
 🤝 Contributing
 
--Pull requests and suggestions are welcome!
--Feel free to fork this repository and enhance the project.
+- Pull requests and suggestions are welcome!
+- Feel free to fork this repository and enhance the project.
